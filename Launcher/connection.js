@@ -20,25 +20,25 @@ global.herokuapp = process.env.HEROKU_APP_NAME
 
 //settings
 
-let fake = ['917012984396']
+let fake = ['918547659493']
 global.owner = [`${fake}`]
 global.wame = "https://github.com/Sparkymon777/Bino-MD"
 global.pemilik = ['917012984396']
 global.premium = ['917012984396']
-global.pengguna = ['ASWIN']
-global.footer = ['S P A R K Y']
-global.watermark = ['S P A R K Y']
+global.pengguna = ['A𝙻𝙿𝙷𝙰']
+global.footer = ['𝚂 𝚃 𝚁 𝙰 𝙽 𝙶𝙴']
+global.watermark = ['S 𝚃 𝚁 𝙰 𝙽 𝙶 𝙴']
 global.logo = process.env.LOGO
-global.botname = ['Bino MD']
-global.caption = ['𝗕𝗜𝗡𝗢 𝗕𝗢𝗧 𝗠𝗗']
-global.ownername = ['ASWIN SPARKY']
+global.botname = ['𝙺𝙸𝙽𝙶 𝚂𝚃𝚁𝙰𝙽𝙶𝙴']
+global.caption = ['𝙺𝙸𝙽𝙶 𝚂𝚃𝚁𝙰𝙽𝙶𝙴']
+global.ownername = ['A𝙻𝙿𝙷𝙰']
 global.tutorial = "https://youtube.com/@sparkymon777"
 global.youtube = "github.com/Sparkymon777"
-global.packname = "S P A R K Y"
+global.packname = "S 𝚃 𝚁 𝙰 𝙽 𝙶 𝙴"
 global.logo = process.env.LOGO
-global.author = "ASWIN"
+global.author = "A𝙻𝙿𝙷𝙰"
 global.sessionName = 'session' //session name
-global.prefa = ['#','!','/',''] //prefix
+global.prefa = ['#','!','/','❤️'] //prefix
 global.sp = '🔵' //sp
 global.dripstyping = false
 global.dripsreadgroup = false
@@ -65,10 +65,10 @@ global.f6 = 'application/vnd.android.package-archive'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.mess = {
     success: 'All set sucessfully changed settings!',
-    public: 'Bino MD is now working in public mode',
-    self: 'Bino MD is now working in private mode',
+    public: '𝙺𝙸𝙽𝙶 𝚂𝚃𝚁𝙰𝙽𝙶𝙴 is now working in public mode',
+    self: '𝙺𝙸𝙽𝙶 𝚂𝚃𝚁𝙰𝙽𝙶𝙴 is now working in private mode',
     admin: '*This feature is only for admin!*',
-    botAdmin: '*Bino bot must be admin first!*',
+    botAdmin: '*𝙺𝙸𝙽𝙶 𝚂𝚃𝚁𝙰𝙽𝙶𝙴 must be admin first!*',
     owner: '*this feature is only for owner*',
     group: '*Feature is only for groups!*',
     grouponly: '*Group Mode Only*',
